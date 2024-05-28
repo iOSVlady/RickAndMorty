@@ -7,8 +7,6 @@
 
 import SwiftUI
 import UIKit
-import SDWebImage
-import SDWebImageSwiftUI
 
 class CharacterCell: UICollectionViewCell {
     
