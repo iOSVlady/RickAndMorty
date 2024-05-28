@@ -16,7 +16,7 @@ class CharacterInfoViewModel: ObservableObject {
         self.coordinator = coordinator
     }
     
-    func goBack() {
+    func backAction() {
         coordinator?.pop()
     }
 }
